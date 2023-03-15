@@ -14,7 +14,7 @@ function ImageGallery() {
 
   function searchImages() {
     unsplash.search
-      .getPhotos({ query: query, perPage: 50 })
+      .getPhotos({ query: query, perPage: 200 })
       .then((result) => {
         if (result.errors) {
           console.log(result.errors);
