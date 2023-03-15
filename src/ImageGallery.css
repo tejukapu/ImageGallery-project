@@ -1,0 +1,33 @@
+.image-gallery {
+  text-align: center;
+  margin-top: 25px;
+  margin: 20px;
+  margin-bottom: 25px;
+}
+
+.search {
+  padding: 13px;
+  font-size: 25px;
+  font-family: cursive;
+  margin-bottom: 17px;
+  border-radius: 10px;
+  padding-right: 150px;
+  border: solid grey;
+}
+
+.button {
+  padding: 12px;
+  margin: 10px;
+  font-size: 25px;
+  border-radius: 10px;
+  margin-left: px;
+  font-family: cursive;
+  border: solid grey;
+}
+
+.images {
+  border: solid grey;
+  border-radius:9px;
+  margin-top: 25px;
+  
+}
